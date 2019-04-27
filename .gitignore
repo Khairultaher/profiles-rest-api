@@ -1,0 +1,22 @@
+*.pyc
+*.pem
+*.pub
+*.tar.gz
+*.zip
+*.sql
+*.db
+secrets.txt
+./tmp
+./build/*
+.idea/*
+.idea
+# .env
+.env
+#virtual env
+env36/
+env37/
+__pycache__/
+env35/*
+env36/
+*.pyc
+build
