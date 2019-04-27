@@ -15,6 +15,7 @@ secrets.txt
 #virtual env
 env36/
 env37/
+#others
 __pycache__/
 env35/*
 env36/
