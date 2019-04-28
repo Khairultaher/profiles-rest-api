@@ -5,6 +5,7 @@
 *.zip
 *.sql
 *.db
+*Db.*
 secrets.txt
 ./tmp
 ./build/*
